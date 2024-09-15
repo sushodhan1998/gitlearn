@@ -2,3 +2,4 @@ get the user..........
 
 adding new lines
 added as new branch
+Merge conflict line1
